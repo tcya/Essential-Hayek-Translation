@@ -1,0 +1,208 @@
+1
+00:00:00,028 --> 00:00:04,072
+Welcome to Essential Hayek
+ 欢迎来到哈耶克简要
+
+2
+00:00:04,072 --> 00:00:06,022
+I'm Don Boudreaux
+ 我是Don Boudreaux
+
+3
+00:00:06,022 --> 00:00:09,000
+professor of economics at George Mason University
+ 乔治梅森大学经济学教授
+
+4
+00:00:09,000 --> 00:00:11,020
+senior fellow with the Fraser Institute
+ 弗雷泽研究所高级研究员
+
+5
+00:00:11,020 --> 00:00:13,038
+and blogger at Café Hayek
+ 博客Café Hayek的博主之一
+
+6
+00:00:13,038 --> 00:00:16,022
+This video was part of the Fraser Institute initiative
+ 本视频是由弗雷泽研究所制作的
+
+7
+00:00:16,022 --> 00:00:22,058
+to present the key ideas of F.A. Hayek in an easily accessible format
+ 对哈耶克关键思想的通俗介绍
+
+8
+00:00:22,058 --> 00:00:26,012
+Hayek observed that the challenge of living in a modern society involves
+ 哈耶克观察到在现代社会生活的挑战包含
+
+9
+00:00:26,012 --> 00:00:29,026
+two sets of very different interactions
+ 两套非常不同的互动方式
+
+10
+00:00:29,026 --> 00:00:32,094
+those that occur among our family and friends
+ 一种是与家庭和朋友打交道的方式
+
+11
+00:00:32,094 --> 00:00:36,030
+and those that occur in the external world
+ 另一种是与外部世界打交道的方式
+
+12
+00:00:36,030 --> 00:00:40,000
+Let's simplify this rather complex idea with an example
+ 让我们举例来说明这个复杂的想法
+
+13
+00:00:40,000 --> 00:00:41,070
+This is Tom
+ 这是Tom
+
+14
+00:00:41,070 --> 00:00:44,042
+He owns a bicycle repair shop
+ 他经营着一家自行车维修店
+
+15
+00:00:44,042 --> 00:00:46,006
+Tom repairs people's bikes
+ Tom修理顾客的自行车
+
+16
+00:00:46,006 --> 00:00:50,006
+and in return, his customers pay him
+ 顾客则付给Tom钱作为回报
+
+17
+00:00:50,006 --> 00:00:53,000
+Tom is also married and a father
+ Tom也结婚了并已为人父
+
+18
+00:00:53,000 --> 00:00:55,012
+When Tom is at home with his family
+ Tom与家人在一块时
+
+19
+00:00:55,012 --> 00:00:57,058
+the interactions between his wife and children
+ 一家人之间的互动
+
+20
+00:00:57,058 --> 00:01:01,016
+are very different from those in Tom's bike shop
+ 与Tom自行车店里的互动非常不同
+
+21
+00:01:01,016 --> 00:01:04,012
+For example, if Tom's son needs his bike repaired
+ 举个栗子，如果Tom的儿子自行车坏了
+
+22
+00:01:04,012 --> 00:01:05,098
+he simply asks Tom
+ 他只需要跟Tom说一声就行了
+
+23
+00:01:05,098 --> 00:01:11,012
+We don't expect Tom to charge his son for the repair as he would a customer in store
+ 我们并不认为Tom会像对顾客那样对儿子收费
+
+24
+00:01:11,012 --> 00:01:13,080
+Hayek observed that a family is not a market
+ 哈耶克观察到家庭与市场不一样
+
+25
+00:01:13,080 --> 00:01:17,086
+and the rules of the market do not apply to the family
+ 市场上的规则也不适用于家庭
+
+26
+00:01:17,086 --> 00:01:19,024
+As a father
+ 作为一个父亲
+
+27
+00:01:19,024 --> 00:01:23,008
+Tom gains satisfaction from helping his son by repairing his bike
+ Tom从帮助他儿子修车中获得了满足
+
+28
+00:01:23,008 --> 00:01:27,072
+This satisfaction is different from the feelings he experiences with his customers
+ 这种满足与他从顾客那所获得的感受不同
+
+29
+00:01:27,072 --> 00:01:31,026
+Almost all of them Tom doesn't know outside the work
+ 几乎所有顾客Tom在工作外都不认识
+
+30
+00:01:31,026 --> 00:01:37,096
+Likewise, Hayek explained that society at large cannot operate like a family
+ 类似的，哈耶克描述了大型社会是无法像个家庭那样运转的
+
+31
+00:01:37,096 --> 00:01:40,024
+If Tom treated his customers like his son
+ 如果Tom像对待孩子那样对待顾客
+
+32
+00:01:40,024 --> 00:01:42,086
+and didn't charge them for fixing their bikes
+ 为他们免费修理自行车
+
+33
+00:01:42,086 --> 00:01:45,080
+his business would soon go broke
+ 他的生意很快就会难以为继
+
+34
+00:01:45,080 --> 00:01:49,078
+Hayek's point is that markets and economies would collapse
+ 哈耶克认为如果我们试图让社会像个扩展大家庭那样运行
+
+35
+00:01:49,078 --> 00:01:55,094
+if we try to operate society at large as if it were one big extended family
+ 市场和经济将会崩溃
+
+36
+00:01:55,094 --> 00:02:00,008
+Hayek identified a subtle, but key aspect of a society
+ 哈耶克指出了一个社会微妙又关键的一面
+
+37
+00:02:00,008 --> 00:02:04,054
+which is that we're governed by two distinct sets of rules and constraints
+ 即有两套不同的规则和约束作用于我们的行为
+
+38
+00:02:04,054 --> 00:02:07,028
+both function well within their own spheres
+ 在它们各自的范围内都运行良好
+
+39
+00:02:07,028 --> 00:02:14,054
+but great disruptions and costs occur when we try to transplant one set of rules to the other sphere
+ 但当我们把其中之一用于另一个的范围时，就会导致严重的破坏
+
+40
+00:02:14,054 --> 00:02:17,058
+To learn more and to download <Essential Hayek> for free
+ 想要下载和更多了解《哈耶克简要》
+
+41
+00:02:17,058 --> 00:02:21,096
+visit www.essentialhayek.org
+ 请访问www.essentialhayek.org
+
+42
+00:02:21,096 --> 00:02:23,096
+翻译 by tcya

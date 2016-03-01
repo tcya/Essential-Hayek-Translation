@@ -1,0 +1,223 @@
+1
+00:00:02,036 --> 00:00:04,072
+Welcome to Essential Hayek
+ 欢迎来到哈耶克简要
+
+2
+00:00:04,072 --> 00:00:06,020
+I'm Don Boudreaux
+ 我是Don Boudreaux
+
+3
+00:00:06,020 --> 00:00:09,004
+professor of economics at George Mason University
+ 乔治梅森大学经济学教授
+
+4
+00:00:09,004 --> 00:00:11,016
+senior fellow with the Fraser Institute
+ 弗雷泽研究所高级研究员
+
+5
+00:00:11,016 --> 00:00:13,038
+and blogger at Café Hayek
+ 博客Café Hayek的博主之一
+
+6
+00:00:13,038 --> 00:00:16,022
+This video was part of the Fraser Institute initiative
+ 本视频是由弗雷泽研究所制作的
+
+7
+00:00:16,022 --> 00:00:21,030
+to present the key ideas of F.A. Hayek in an easily accessible format
+ 对哈耶克关键思想的通俗介绍
+
+8
+00:00:21,030 --> 00:00:25,040
+In this video, we explore one of Hayek's most profound pursuits
+ 本视频将介绍哈耶克最重要的思想探索之一
+
+9
+00:00:25,040 --> 00:00:30,022
+which is understanding the difference between legislation and the law
+ 立法和法律的不同
+
+10
+00:00:30,022 --> 00:00:35,088
+Hayek differentiated between rules consciously designed and imposed on society by government officials
+ 哈耶克区分了两种规则，由政府官员有意设计并施加于社会的、
+
+11
+00:00:35,088 --> 00:00:41,074
+and rules that emerge undesigned from social interaction among people over time
+ 和无人设计、在人们的互动中自发涌现的
+
+12
+00:00:41,074 --> 00:00:46,012
+He called rules imposed on society by government officials legislation
+ 他把政府制定的规则称为立法
+
+13
+00:00:46,012 --> 00:00:52,028
+and he contrast legislation with those rules that emerge, which he called law
+ 把自发涌现的规则称作法律，并把二者进行了对比
+
+14
+00:00:52,028 --> 00:00:57,068
+Hayek's concept of law is a lot like what we today refer to as social norms
+ 哈耶克所说的法律类似于我们今天所说的社会规范
+
+15
+00:00:57,068 --> 00:01:01,006
+Let's try to simplify this distinction with an example
+ 让我们举个栗子来说明这种区分
+
+16
+00:01:01,006 --> 00:01:03,012
+This is Julie
+ 这是Julie
+
+17
+00:01:03,012 --> 00:01:05,056
+Julie is going to the movies
+ 她正要去看电影
+
+18
+00:01:05,056 --> 00:01:07,034
+When Julie enters the theater
+ 当Julie来到电影院
+
+19
+00:01:07,034 --> 00:01:10,044
+she finds a seat and puts a coat on it
+ 她找到了个座位并把外套放了上去
+
+20
+00:01:10,044 --> 00:01:15,030
+This small act sends a signal to others that the seat is now taken
+ 这个小举动告诉其他人这个位置已经被占了
+
+21
+00:01:15,030 --> 00:01:17,066
+People recognize from the placing of the coat
+ 人们会从放在那的外套看出
+
+22
+00:01:17,066 --> 00:01:23,012
+that someone has staked a claim so to speak, on that seat for the duration of the movie
+ 已经有人宣示了这个座位在电影放映期间的使用权
+
+23
+00:01:23,012 --> 00:01:27,038
+No one will move Julie's coat or sit in that seat
+ 没人会拿开Julie的外套或者去坐那个座位
+
+24
+00:01:27,038 --> 00:01:32,042
+This rule is a social norm or convention that governs our behavior
+ 这个规则就是一种约束着我们行为的社会规范，或者叫习俗
+
+25
+00:01:32,042 --> 00:01:36,066
+No government imposed this rule as a law, but so what
+ 没有政府把这条规则写进法典，但那又怎样？
+
+26
+00:01:36,066 --> 00:01:39,044
+We all recognize and follow this rule
+ 我们都理解并遵守这条规则
+
+27
+00:01:39,044 --> 00:01:43,066
+and we would interpret someone who ignores this rule by moving Julie's coat
+ 并且假如有人无视这条规则，移走Julie的外套
+
+28
+00:01:43,066 --> 00:01:45,066
+and taking the seat
+ 一屁股坐下来
+
+29
+00:01:45,066 --> 00:01:49,028
+as someone who violates the normal social behavior
+ 我们会认为他违反了正常的社会规范
+
+30
+00:01:49,028 --> 00:01:53,024
+In other words, this social norm constrains the way we act
+ 换句话说，这条社会规范限制了我们的行为可能
+
+31
+00:01:53,024 --> 00:01:58,002
+and allows us to interact with one another more effectively
+ 并且让我们能更有效地与他人互动
+
+32
+00:01:58,002 --> 00:02:02,090
+Another example can be seen when Julie goes to get popcorn
+ 当Julie去买爆米花时，我们可以看到另一个例子
+
+33
+00:02:02,090 --> 00:02:06,034
+There is a line at the concession stand
+ 人们正在小卖部排队购物
+
+34
+00:02:06,034 --> 00:02:10,020
+but rather than push to the front of line by cutting ahead of everyone
+ 不过Julie并没有直接插队到第一个
+
+35
+00:02:10,020 --> 00:02:13,086
+Julie stands at the back and waits for turn
+ 而是排在了队伍最后耐心等待
+
+36
+00:02:13,086 --> 00:02:18,018
+This is a typical social norm that we all naturally follow without thinking
+ 这是一个我们所有人都无需思考就会自然遵守的社会规范
+
+37
+00:02:18,018 --> 00:02:20,068
+and we expect others to do the same
+ 并且我们预期别人也会这么做
+
+38
+00:02:20,068 --> 00:02:23,088
+It doesn't require government for its enforcement
+ 它也无需政府来保障它的执行
+
+39
+00:02:23,088 --> 00:02:27,050
+Hayek explained how the social norms that emerge over time
+ 哈耶克解释了此类
+
+40
+00:02:27,050 --> 00:02:31,034
+through people interacting with one another and figuring out what works
+ 通过人们的互动和试错自发产生的社会规范
+
+41
+00:02:31,034 --> 00:02:33,096
+powerfully govern our behaviors toward others
+ 是如何有力地约束我们对其他人的行为的
+
+42
+00:02:33,096 --> 00:02:40,002
+so that society functions productively, collaboratively, and peacefully
+ 从而让社会和平、有效率、又相互合作
+
+43
+00:02:40,002 --> 00:02:42,090
+To learn more and download <Essential Hayek> for free
+ 想要下载和更多了解《哈耶克简要》
+
+44
+00:02:42,090 --> 00:02:47,048
+visit www.essentialhayek.org
+ 请访问www.essentialhayek.org
+
+45
+00:02:47,048 --> 00:02:49,048
+翻译 by tcya

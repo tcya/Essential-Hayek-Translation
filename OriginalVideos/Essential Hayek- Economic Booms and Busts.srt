@@ -1,0 +1,283 @@
+1
+00:00:02,052 --> 00:00:04,056
+Welcome to Essential Hayek
+ 欢迎来到哈耶克简要
+
+2
+00:00:04,056 --> 00:00:06,014
+I'm Don Boudreaux
+ 我是Don Boudreaux
+
+3
+00:00:06,014 --> 00:00:09,004
+professor of economics at George Mason University
+ 乔治梅森大学经济学教授
+
+4
+00:00:09,004 --> 00:00:11,014
+senior fellow with the Fraser Institute
+ 弗雷泽研究所高级研究员
+
+5
+00:00:11,014 --> 00:00:13,031
+and blogger at Café Hayek
+ 博客Café Hayek的博主之一
+
+6
+00:00:13,031 --> 00:00:16,010
+This video was part of the Fraser Institute initiative
+ 本视频是由弗雷泽研究所制作的
+
+7
+00:00:16,010 --> 00:00:22,028
+to present the key ideas of F.A. Hayek in an easily accessible format
+ 对哈耶克关键思想的通俗介绍
+
+8
+00:00:22,028 --> 00:00:27,044
+In this video, we explore Hayek's work on economic booms and busts
+ 本视频将介绍哈耶克对经济繁荣和衰退的研究
+
+9
+00:00:27,044 --> 00:00:32,096
+work for which he was awarded a Nobel prize in economics in 1974
+ 哈耶克因此研究获得了1974年诺贝尔经济学奖
+
+10
+00:00:32,096 --> 00:00:38,038
+One of Hayek's key observations was that when government interfering the economy
+ 哈耶克的一个关键发现是政府对经济的干预
+
+11
+00:00:38,038 --> 00:00:43,008
+it results in people acting in ways that are not sustainable
+ 会导致人们以不可持续的方式行动
+
+12
+00:00:43,008 --> 00:00:47,080
+which ultimately leads to booms and then, inevitably, busts
+ 这将产生经济的短期繁荣和之后不可避免的萧条
+
+13
+00:00:47,080 --> 00:00:50,044
+Let's simplify this idea with an example
+ 让我们举个栗子来简化下这个想法
+
+14
+00:00:50,044 --> 00:00:53,044
+This is Brian
+ 这是Brian
+
+15
+00:00:53,044 --> 00:00:59,068
+Brian is a politician who thinks he has a great idea for creating jobs and widespread prosperity
+ 他觉得自己有了一个能制造就业并创造广泛繁荣的好想法
+
+16
+00:00:59,068 --> 00:01:01,038
+With the best intentions
+ 怀着最大的好意
+
+17
+00:01:01,038 --> 00:01:04,032
+Brian convinces his government to support companies
+ Brian说服政府支持企业
+
+18
+00:01:04,032 --> 00:01:08,082
+so that they can develop and build factories to sell chocolate-covered pickles
+ 以让它们建造生产巧克力裹酸黄瓜的工厂
+
+19
+00:01:08,082 --> 00:01:11,030
+but Brian's plan is flawed
+ 但是Brian的计划是有缺陷的
+
+20
+00:01:11,030 --> 00:01:15,064
+he assumes there will be great demand for chocolate-covered pickles
+ 他以为对巧克力裹酸黄瓜的需求将会很大
+
+21
+00:01:15,064 --> 00:01:18,048
+but if they're truly with great demand for chocolate-covered pickles
+ 但假如真有大量的需求
+
+22
+00:01:18,048 --> 00:01:20,072
+the pickle industry will naturally respond
+ 酸黄瓜制造业自然会做出反应
+
+23
+00:01:20,072 --> 00:01:23,086
+and build factories of covered pickles with chocolate
+ 去建设巧克力裹酸黄瓜工厂
+
+24
+00:01:23,086 --> 00:01:26,088
+All without the government assistance
+ 这一切都无需政府帮助
+
+25
+00:01:26,088 --> 00:01:31,086
+so what happens when there is no real demand by customers for chocolate-covered pickles
+ 所以假如消费者其实并不需要巧克力裹酸黄瓜，那将会怎样？
+
+26
+00:01:31,086 --> 00:01:34,000
+the resources provided by the government
+ 那样的话，政府提供的资源
+
+27
+00:01:34,000 --> 00:01:36,054
+whether in the form of direct support like subsidies
+ 如直接的经济补贴
+
+28
+00:01:36,054 --> 00:01:38,088
+or indirect support like loan guarantees
+ 或间接的贷款担保
+
+29
+00:01:38,088 --> 00:01:43,044
+distorts the economy by encouraging people to make bad decisions
+ 都会诱使人们做出错误的决策从而扭曲经济
+
+30
+00:01:43,044 --> 00:01:44,088
+In this case
+ 在这个例子中
+
+31
+00:01:44,088 --> 00:01:49,000
+to use resources to make chocolate-covered pickles
+ 错误决策指的就是调用资源去生产无人需要的巧克力裹酸黄瓜
+
+32
+00:01:49,000 --> 00:01:52,000
+As the lack of demand for these pickles becomes apparent
+ 当人们意识到对巧克力裹酸黄瓜的需求其实并不存在时
+
+33
+00:01:52,000 --> 00:01:54,032
+businesses must adjust by retooling
+ 企业就必须重组
+
+34
+00:01:54,032 --> 00:01:56,008
+or even scuttling factories
+ 甚至关闭工厂
+
+35
+00:01:56,008 --> 00:01:58,008
+adjusting their production lines
+ 调整生产线
+
+36
+00:01:58,008 --> 00:02:01,084
+changing their distribution networks, et cetera
+ 改变分销渠道等等
+
+37
+00:02:01,084 --> 00:02:04,094
+All of these things mean idle resources in the short term
+ 这些都意味着在经济体自我调整以适应市场的这段时期
+
+38
+00:02:04,094 --> 00:02:09,066
+as businesses adjust to the reality of the market
+ 会产生资源的短期闲置
+
+39
+00:02:09,066 --> 00:02:11,094
+The challenge is to ensure that producers
+ 经济正确运行的难处就在于如何让生产者
+
+40
+00:02:11,094 --> 00:02:14,034
+have the knowledge and the incentives to
+ 获得正确的信息和激励
+
+41
+00:02:14,034 --> 00:02:17,092
+produce goods and services that people want
+ 去生产人们需要的产品和服务
+
+42
+00:02:17,092 --> 00:02:20,002
+Government interference, such as through subsidies
+ 政府干预，例如补贴
+
+43
+00:02:20,002 --> 00:02:23,086
+or specially importantly, by manipulating the money supply
+ 或者影响更大的货币供应调节
+
+44
+00:02:23,086 --> 00:02:27,028
+obscure that knowledge by distorting prices
+ 扭曲了价格从而模糊了传递给生产者的信息
+
+45
+00:02:27,028 --> 00:02:28,060
+This interference
+ 这种政府干预
+
+46
+00:02:28,060 --> 00:02:30,072
+by initially causing producers to tool up
+ 先会导致厂家升级设备
+
+47
+00:02:30,072 --> 00:02:33,028
+to produce things that consumers don't really want
+ 去生产消费者其实并不需要的产品
+
+48
+00:02:33,028 --> 00:02:37,016
+inevitably results in producers having to tool down and readjust
+ 然后不可避免地废弃设备、重新调整
+
+49
+00:02:37,016 --> 00:02:41,024
+in order to better meet true consumer demands
+ 以适应消费者的真实需求
+
+50
+00:02:41,024 --> 00:02:44,052
+The core insight from Hayek on economic booms and busts
+ 哈耶克对于经济周期的核心观点在于
+
+51
+00:02:44,052 --> 00:02:48,076
+is that government interference, even when done with the best intentions
+ 即使是抱有最大好意的政府干预
+
+52
+00:02:48,076 --> 00:02:54,099
+changes people's behavior by changing incentives and changing signals in the market
+ 也会因为改变了市场上的激励和信号而改变人们的行为
+
+53
+00:02:54,099 --> 00:02:58,028
+These changes result in investments that are not sustainable
+ 这些改变会导致不可持续的投资
+
+54
+00:02:58,028 --> 00:03:03,022
+and which automatically leads to recessions, or busts
+ 进而导致经济衰退
+
+55
+00:03:03,022 --> 00:03:06,036
+To learn more and to download <Essential Hayek> for free
+ 想要下载和更多了解《哈耶克简要》
+
+56
+00:03:06,036 --> 00:03:10,030
+visit www.essentialhayek.org
+ 请访问www.essentialhayek.org
+
+57
+00:03:10,030 --> 00:03:12,672
+翻译 by tcya

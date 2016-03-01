@@ -1,0 +1,260 @@
+1
+00:00:02,052 --> 00:00:04,014
+Welcome to Essential Hayek
+ 欢迎来到哈耶克简要
+
+2
+00:00:04,014 --> 00:00:06,014
+I'm Don Boudreaux
+ 我是Don Boudreaux
+
+3
+00:00:06,014 --> 00:00:08,074
+professor of economics at George Mason University
+ 乔治梅森大学经济学教授
+
+4
+00:00:08,074 --> 00:00:10,070
+senior fellow with the Fraser Institute
+ 弗雷泽研究所高级研究员
+
+5
+00:00:10,070 --> 00:00:12,070
+and blogger at Café Hayek
+ 博客Café Hayek的博主之一
+
+6
+00:00:12,070 --> 00:00:16,010
+This video was part of the Fraser Institute initiative
+ 本视频是由弗雷泽研究所制作的
+
+7
+00:00:16,010 --> 00:00:21,040
+to present the key ideas of F.A. Hayek in an easily accessible format
+ 对哈耶克关键思想的通俗介绍
+
+8
+00:00:21,040 --> 00:00:25,044
+In this video, we explore one of Hayek's best know ideas
+ 本视频将介绍哈耶克最著名的一个思想
+
+9
+00:00:25,044 --> 00:00:28,022
+and perhaps his most profound insight
+ 可能也是他最重要的洞见
+
+10
+00:00:28,022 --> 00:00:31,076
+the role of prices in conveying information
+ 价格在传递信息中的作用
+
+11
+00:00:32,094 --> 00:00:37,030
+All economists understand that people make decision based on the cost they face
+ 经济学家都明白人们基于面临的成本
+
+12
+00:00:37,030 --> 00:00:39,030
+and the benefits they expect to receive
+ 和预期收益做出决策
+
+13
+00:00:39,030 --> 00:00:41,030
+In most cases
+ 多数情况下
+
+14
+00:00:41,030 --> 00:00:46,040
+the key cost of the decision is the price the person faces to purchase a good or service
+ 决策的主要成本是个体为商品或服务所支付的价格
+
+15
+00:00:46,040 --> 00:00:50,040
+This idea is complex, so let's simplify it with an example
+ 这个观点有点复杂，所以让我们举个栗子
+
+16
+00:00:50,040 --> 00:00:52,040
+This is Sara
+ 这是Sara
+
+17
+00:00:52,040 --> 00:00:54,040
+Sara loves coffee
+ 她爱喝咖啡
+
+18
+00:00:54,040 --> 00:00:56,040
+and prefers Columbian coffee
+ 尤其喜欢哥伦比亚咖啡
+
+19
+00:00:56,040 --> 00:00:59,048
+which she buys from her local grocery store
+ 她在本地的杂货店购买咖啡
+
+20
+00:00:59,048 --> 00:01:03,088
+The local store usually sells her favorite coffee to her for 10 dollars
+ 她最爱的咖啡一般卖10美金
+
+21
+00:01:03,088 --> 00:01:06,060
+Sara doesn't know any of the details or cost
+ Sara并不了解关于咖啡生产的成本和细节
+
+22
+00:01:06,060 --> 00:01:08,060
+of how the coffee beans are grown
+ 例如咖啡豆是怎么种植的
+
+23
+00:01:08,060 --> 00:01:10,060
+the irrigation of the coffee farm
+ 咖啡田的灌溉方法
+
+24
+00:01:10,060 --> 00:01:12,060
+how the beans are roasted
+ 如何烘焙咖啡豆
+
+25
+00:01:12,060 --> 00:01:15,088
+or how the coffee is transported to her store
+ 咖啡是怎么运到杂货店的等等
+
+26
+00:01:15,088 --> 00:01:20,018
+all she knows is her favorite Columbian coffee costs 10 dollars
+ 她只知道她最爱喝的哥伦比亚咖啡卖10美金
+
+27
+00:01:20,018 --> 00:01:25,038
+and that it's worth to her given the enjoyment she gets from drinking Columbian coffee
+ 并且与她喝咖啡所获得的愉悦相比，这10美金花的值得
+
+28
+00:01:25,038 --> 00:01:30,042
+but what happens if bad weather in Columbia severely damages the coffee farm field
+ 不过如果哥伦比亚天气变差，咖啡种植地被毁，将会如何？
+
+29
+00:01:30,042 --> 00:01:34,018
+bad weather and crop damage been fewer coffee beans from Columbian
+ 变差的天气和损毁的咖啡植株意外着更少的哥伦比亚咖啡豆
+
+30
+00:01:34,018 --> 00:01:37,086
+and that results in the price of Columbia coffee going up
+ 这将导致哥伦比亚咖啡的价格上涨
+
+31
+00:01:37,086 --> 00:01:40,086
+so when Sara next goes to her local grocery store
+ 所以当Sara下次去杂货店时
+
+32
+00:01:40,086 --> 00:01:45,086
+she finds the price of her favorite Columbian coffee is now 20 dollars
+ 她发现她最爱的哥伦比亚咖啡现在要卖20美金了
+
+33
+00:01:45,086 --> 00:01:52,032
+Sara doesn't know why the price went up, nor did she need to know why
+ Sara既不知道、也不需要知道为什么咖啡涨价了
+
+34
+00:01:52,032 --> 00:01:58,034
+The increased price sends her a signal that prompts her to make an informed decision
+ 上升的价格促使Sara基于新价格重新做出决定
+
+35
+00:01:58,034 --> 00:02:01,058
+She can pay 20 dollars for her favorite Columbian coffee
+ 她可以为最爱的咖啡付20块
+
+36
+00:02:01,058 --> 00:02:04,038
+but, the higher price of the Columbian coffee
+ 不过，哥伦比亚咖啡的价格越高
+
+37
+00:02:04,038 --> 00:02:08,088
+means that she will have to give up more something else to buy that coffee
+ 意味着她为了买咖啡将不得不更多地放弃购买其他东西
+
+38
+00:02:08,088 --> 00:02:13,080
+In fact, Sara is likely voluntarily choose to buy another type of coffee
+ 事实上，Sara很可能会自愿去购买另一种
+
+39
+00:02:13,080 --> 00:02:17,080
+one perhaps even at a lower price than a normal Columbian coffee
+ 比哥伦比亚咖啡便宜的咖啡
+
+40
+00:02:17,080 --> 00:02:22,036
+say, Indonesian coffee, which costs 9 dollars
+ 比如只要9美金的印尼咖啡
+
+41
+00:02:22,036 --> 00:02:29,008
+so even though Sara doesn't have any of the information about why the price of Columbian coffee changed
+ 所以即使Sara完全不知道为什么哥伦比亚咖啡的价格上涨了
+
+42
+00:02:29,008 --> 00:02:34,080
+she makes the same decision based purely on the change in price she observes in her grocery store
+ 她仅仅依靠店里标价做出的决定
+
+43
+00:02:34,080 --> 00:02:42,078
+that she would have made had she known that a weather disaster in Columbian destroyed that much of that country's coffee crop
+ 与假如她知道哥伦比亚咖啡减产做出的决定会是一致的
+
+44
+00:02:42,078 --> 00:02:47,034
+What Hayek explained and clarified is that people make decisions as if
+ 哈耶克阐明的正是人们做出的决策就好像
+
+45
+00:02:47,034 --> 00:02:53,054
+they have incredible amount of information about why the price of good or service is what it is
+ 他们掌握价格变动背后的大量信息一样
+
+46
+00:02:53,054 --> 00:02:58,098
+when in fact, they have little or no information about why the price is what it is
+ 但其实他们对价格为何如此一无所知
+
+47
+00:02:58,098 --> 00:03:03,038
+They simply know what the price is and that is sufficient
+ 仅仅知道价格是多少
+
+48
+00:03:03,038 --> 00:03:07,074
+to prompt each of us to act as if we know vast quantities of facts
+ 就已经足以使人们像掌握了
+
+49
+00:03:07,074 --> 00:03:12,056
+about economics reality that we can't possibly really know
+  其实根本无力掌握的大量经济信息那样作出决策
+
+50
+00:03:12,056 --> 00:03:16,088
+To learn more and download <Essential Hayek> for free
+ 想要下载和更多了解《哈耶克简要》
+
+51
+00:03:16,088 --> 00:03:19,082
+visit www.essentialhayek.org
+ 请访问www.essentialhayek.org
+
+52
+00:03:19,082 --> 00:03:25,000
+翻译 by tcya
+
+

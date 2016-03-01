@@ -1,0 +1,318 @@
+1
+00:00:00,100 --> 00:00:05,044
+Everyday as a consumer, you interact with and perform minor miracles
+ 作为消费者，你每天都在与一些小小的奇迹打交道
+
+2
+00:00:05,044 --> 00:00:08,012
+and yet you probably don't recognize them as such
+ 不过你可能并不这样看
+
+3
+00:00:08,012 --> 00:00:12,052
+If you think about them at all, you might consider them as nuisances or as obstacles
+ 当你念及它们时，你可能还会觉得它们是种妨碍
+
+4
+00:00:12,052 --> 00:00:14,052
+But while they're largely unappreciated
+ 不过虽然它们不受待见
+
+5
+00:00:14,052 --> 00:00:17,098
+these small things actually make our modern lives possible
+ 现代生活却有赖于这些小东西
+
+6
+00:00:17,098 --> 00:00:20,080
+What am I talking about? Prices
+ 我在说什么？价格
+
+7
+00:00:20,080 --> 00:00:24,010
+the prices we pay everyday for goods and services
+ 就是我们每天为商品和服务支付的那个“价格”
+
+8
+00:00:24,010 --> 00:00:27,038
+You might think they're just the unfortunate cost of getting something you want
+ 你可能会觉得价格就是为了获取某物而不幸不得不支付的成本
+
+9
+00:00:27,038 --> 00:00:29,078
+but they're much more than that
+ 但其实远不止如此
+
+10
+00:00:29,078 --> 00:00:34,000
+When you learn about the vast amount of information contained within every price
+ 当你明白了价格背后蕴含着海量的信息后
+
+11
+00:00:34,000 --> 00:00:35,068
+each one becomes a marvel
+ 它们就变成了奇迹
+
+12
+00:00:35,068 --> 00:00:40,076
+a wonder that helps coordinate the billions of choices of multitudes of people
+ 一个能够将大众数以亿级的不同选择组织进
+
+13
+00:00:40,076 --> 00:00:43,046
+into a productive and dynamic economy
+ 一个富有生产力的动态经济体的奇迹
+
+14
+00:00:43,046 --> 00:00:45,028
+Let me explain
+ 让我接着说明一下
+
+15
+00:00:45,028 --> 00:00:47,028
+Think about, say, ketchup
+ 以番茄酱为例
+
+16
+00:00:47,028 --> 00:00:51,038
+the primary ingredient in that delicious red source is, of course, tomatoes
+ 它的主要成分当然就是番茄
+
+17
+00:00:51,038 --> 00:00:54,026
+Now suppose there is a terrible draught in California
+ 现在假设加州发生了严重的干旱
+
+18
+00:00:54,026 --> 00:00:57,034
+this year's tomato harvest drops substantially
+ 导致今年的番茄产量严重下降
+
+19
+00:00:57,034 --> 00:00:58,096
+The demand is still there
+ 但人们对番茄酱的需求却没变
+
+20
+00:00:58,096 --> 00:01:03,010
+people still want ketchup as much as they did before for there hamburgers and fries
+ 大家在吃汉堡薯条时依然想配那么多的番茄酱
+
+21
+00:01:03,010 --> 00:01:05,040
+but the supply is shriveled
+ 但供应萎缩了
+
+22
+00:01:05,040 --> 00:01:08,072
+so farmers start to charge higher prices for their tomatoes
+ 所以农民开始以更高的价格出售番茄
+
+23
+00:01:08,072 --> 00:01:11,026
+that means ketchup makers have to pay more for tomatoes
+ 这意味着番茄酱生产商需要花更多的钱购买番茄
+
+24
+00:01:11,026 --> 00:01:13,090
+so they charge grocery stores more for their product
+ 所以他们对下游零售商收取更高的价格
+
+25
+00:01:13,090 --> 00:01:18,078
+and so in turn grocery stores charge higher prices for ketchup to consumers
+ 最终零售商向消费者出售的番茄酱更贵了
+
+26
+00:01:18,078 --> 00:01:21,092
+The important point here is just how customers responds
+ 这里的要点在于消费者如何回应
+
+27
+00:01:21,092 --> 00:01:24,006
+A few of them won't care much about the higher price
+ 一小部分消费者不会在意涨价
+
+28
+00:01:24,006 --> 00:01:27,018
+and they'll continue to buy as many bottles of ketchup as before
+ 他们会购买像往常一样多的番茄酱
+
+29
+00:01:27,018 --> 00:01:29,042
+but most consumers will care
+ 不过大部分消费者会在意涨价
+
+30
+00:01:29,042 --> 00:01:31,038
+they will switch to mayonnaise or to mustard
+ 他们会转向蛋黄酱或者芥末酱
+
+31
+00:01:31,038 --> 00:01:34,012
+or just go without condiments altogether
+ 或者干脆就不用佐料了
+
+32
+00:01:34,012 --> 00:01:37,030
+and that's actually a good outcome given the draught
+ 考虑到干旱带来的减产，这其实是我们乐见的结果
+
+33
+00:01:37,030 --> 00:01:40,096
+There simply aren't as many tomatoes to go around as before
+ 因为市面上就没有像以前那么多的番茄在流通
+
+34
+00:01:40,096 --> 00:01:43,036
+People as a group need to eat fewer tomatoes
+ 所以整个社会需要减少番茄的消费量
+
+35
+00:01:43,036 --> 00:01:46,068
+and this uptake in the price of ketchup leads some people
+ 而番茄酱价格的上涨正好让那些
+
+36
+00:01:46,068 --> 00:01:51,018
+those who care the least about the particular condiment to use less of it
+ 对番茄酱最不在意的人少吃一些番茄酱
+
+37
+00:01:51,018 --> 00:01:54,072
+and that means total consumption of tomatoes shrinks
+ 从而减少了对番茄的总需求
+
+38
+00:01:54,072 --> 00:01:56,010
+From a bird's eye view
+ 从火星人的角度来看
+
+39
+00:01:56,010 --> 00:01:59,038
+it might look as though this chain of events is consciously coordinated
+ 这一连串事件似乎是精心组织的
+
+40
+00:01:59,038 --> 00:02:02,082
+that the farmer, manufacturer, grocery stores, and customers
+ 农民、厂商、零售店、消费者
+
+41
+00:02:02,082 --> 00:02:06,052
+are all working together according to some plan or to some directive
+ 似乎是在某种计划或指示下共同合作
+
+42
+00:02:06,052 --> 00:02:09,088
+to adjust to the fact that the draught destroyed a lot of tomatoes
+ 以应对干旱带来的番茄减产
+
+43
+00:02:09,088 --> 00:02:11,058
+But of course we know there aren't
+ 但当然我们知道并没有这样的计划和指示
+
+44
+00:02:11,058 --> 00:02:15,026
+There is no bureau of condiments ordering people to hold the ketchup
+ 并没有一个调味料管理局命令人们少吃番茄酱
+
+45
+00:02:15,026 --> 00:02:18,036
+Information about the need to cut back tomato consumption
+ 人们需要减少番茄酱消费的信息
+
+46
+00:02:18,036 --> 00:02:22,004
+was communicated organically through prices
+ 是通过价格有机传导的
+
+47
+00:02:22,004 --> 00:02:24,004
+Or as the great economist Friedrich Hayek put it
+ 或者如伟大的经济学家弗雷德里希·哈耶克所表述的
+
+48
+00:02:24,004 --> 00:02:30,016
+the ketchup price is, quote, a kind of machinery for registering change, unquote
+ 番茄酱价格是一种“体现变化的机制”
+
+49
+00:02:30,016 --> 00:02:32,080
+Now multiply this chain of events by trillions
+ 如果把这一串事件乘以万亿
+
+50
+00:02:32,080 --> 00:02:34,036
+that's the world of economy
+ 那就是全球经济
+
+51
+00:02:34,036 --> 00:02:40,004
+There are billions of buyers and suppliers adjusting in real time, every hour of every day
+ 数以亿计的买家和卖家每时每刻针对着短缺和富余
+
+52
+00:02:40,004 --> 00:02:42,004
+to shortages and surpluses
+ 不停地做着实时调整
+
+53
+00:02:42,004 --> 00:02:44,096
+and they're elaborately coordinating their behavior with each other
+ 他们精巧地协调彼此的行为
+
+54
+00:02:44,096 --> 00:02:46,096
+and adjust to on the ground developments
+ 并适应眼前的变化
+
+55
+00:02:46,096 --> 00:02:48,096
+and they don't even realize
+ 他们甚至都没有意识到
+
+56
+00:02:48,096 --> 00:02:53,032
+they're part of this great global chain of cooperation
+ 他们是这个了不起的全球合作链的一部分
+
+57
+00:02:53,032 --> 00:02:57,002
+All of this coordination and adjustment is thanks to prices
+ 这一切协调与调整都要归功于价格
+
+58
+00:02:57,002 --> 00:03:01,068
+all those different bits of information conveyed in that one little number
+ 这个小小的数字传递着所有这些不同的信息
+
+59
+00:03:01,068 --> 00:03:05,040
+Think about that next time you go to grocery store
+ 下次去杂货店的时候记得想想这事
+
+60
+00:03:05,040 --> 00:03:09,018
+We understand the power of prices thanks to economists like Friedrich Hayek
+ 我们对价格的理解要归功于哈耶克这样的经济学家
+
+61
+00:03:09,018 --> 00:03:11,032
+To learn more about Hayek's essential ideas
+ 想了解哈耶克的更多重要思想
+
+62
+00:03:11,032 --> 00:03:13,010
+and how they help explain our world
+ 以及它们是怎么解释这个世界的
+
+63
+00:03:13,010 --> 00:03:14,096
+click here
+ 点击这里
+
+64
+00:03:14,096 --> 00:03:16,096
+翻译 by tcya

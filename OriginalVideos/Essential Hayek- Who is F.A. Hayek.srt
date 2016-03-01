@@ -1,0 +1,293 @@
+1
+00:00:00,036 --> 00:00:04,074
+Welcome to Essential Hayek
+ 欢迎来到哈耶克简要
+
+2
+00:00:04,074 --> 00:00:06,024
+I'm Don Boudreaux
+ 我是Don Boudreaux
+
+3
+00:00:06,024 --> 00:00:09,004
+professor of economics at George Mason University
+ 乔治梅森大学经济学教授
+
+4
+00:00:09,004 --> 00:00:11,022
+senior fellow with the Fraser Institute
+ 弗雷泽研究所高级研究员
+
+5
+00:00:11,022 --> 00:00:13,036
+and blogger at Café Hayek
+ 博客Café Hayek的博主之一
+
+6
+00:00:13,036 --> 00:00:16,022
+This video was part of the Fraser Institute initiative
+ 本视频是由弗雷泽研究所制作的
+
+7
+00:00:16,022 --> 00:00:22,082
+to present the key ideas of F.A. Hayek in an easily accessible format
+ 对哈耶克关键思想的通俗介绍
+
+8
+00:00:22,082 --> 00:00:26,050
+In this video, we provide an overview of Hayek's life
+ 这个视频是关于哈耶克的生平、
+
+9
+00:00:26,050 --> 00:00:32,042
+his accomplishments, and the events that influenced his thinking
+ 成就和影响他思想的事件
+
+10
+00:00:32,042 --> 00:00:36,086
+Frederich A. Hayek was born in Vienna on May 8th, 1899
+ 弗雷德里希A.哈耶克于1899/5/8出生于维也纳
+
+11
+00:00:36,086 --> 00:00:42,020
+As a young man, he served in the Austrian army during World War I
+ 年轻时他加入了奥匈帝国陆军并参加了一战
+
+12
+00:00:42,020 --> 00:00:45,018
+Hayek soon found himself assigned to the Italian front
+ 他被分配到了意大利前线服役
+
+13
+00:00:45,018 --> 00:00:50,072
+with his experience in combat had a profound and decisive influence on his life
+ 这段战争经历给哈耶克的一生带来了深远且决定性的影响
+
+14
+00:00:50,072 --> 00:00:53,046
+Following the war, Hayek returned to Vienna
+ 战争结束后，哈耶克返回了维也纳
+
+15
+00:00:53,046 --> 00:00:58,020
+and completed doctoral degrees in both law and political science
+ 并获得了法律和政治学两个博士学位
+
+16
+00:00:58,020 --> 00:01:01,036
+Working as a young economist in Austria in the late 1920s
+ 1920年代后期，哈耶克作为奥地利年轻的经济学家
+
+17
+00:01:01,036 --> 00:01:05,020
+Hayek was taken under the wing of noted economist Ludwig von Mises
+ 在知名经济学家路德维希·冯·米塞斯的羽翼下成长
+
+18
+00:01:05,020 --> 00:01:08,050
+and began his work researching business cycles
+ 并开始了对于经济周期的研究
+
+19
+00:01:08,050 --> 00:01:12,042
+Business cycles, or what were then called trade cycles
+ 经济周期，后来亦叫商业周期
+
+20
+00:01:12,042 --> 00:01:15,088
+are known today as booms and recessions
+ 今天被人们称作景气和衰退
+
+21
+00:01:15,088 --> 00:01:18,072
+In 1931, Hayek moved to England
+ 1931年，哈耶克移居英国
+
+22
+00:01:18,072 --> 00:01:21,086
+and joined the faculty of the London School of Economics
+ 于伦敦政治经济学院任教
+
+23
+00:01:21,086 --> 00:01:24,010
+With his research into booms and recessions
+ 在1930年代大萧条的背景下
+
+24
+00:01:24,010 --> 00:01:31,062
+led to his growing fame, especially against the backdrop of the Great Depression of the 1930s
+ 他对于经济周期的研究，使他声望日隆
+
+25
+00:01:31,062 --> 00:01:32,084
+During this time
+ 在这期间
+
+26
+00:01:32,084 --> 00:01:36,020
+Hayek crossed path with his greatest intellectual rival
+ 哈耶克遇上了他智力上最重要的对手
+
+27
+00:01:36,020 --> 00:01:37,094
+John Maynard Keynes
+ 约翰·梅纳德·凯恩斯
+
+28
+00:01:37,094 --> 00:01:44,060
+who promoted the idea that governments could actively and successfully manage the economy
+ 凯恩斯推广了政府可以积极、成功地调控经济的理念
+
+29
+00:01:44,060 --> 00:01:46,060
+Hayek argued in contrast
+ 哈耶克则持相反观点
+
+30
+00:01:46,060 --> 00:01:48,042
+that an economy is too complicated
+ 他认为经济太过复杂
+
+31
+00:01:48,042 --> 00:01:51,078
+and the information needed to make decisions too decentralized
+ 决策所需的信息也太过分散
+
+32
+00:01:51,078 --> 00:01:56,044
+for a centrally planned economy to be efficient or effective
+ 使得中央计划经济无法有效运转
+
+33
+00:01:56,047 --> 00:01:59,030
+Eventually, most economists and policymakers
+ 最终，大多数经济学家和政治决策者
+
+34
+00:01:59,030 --> 00:02:02,034
+embraced Keynes' view of the world and the role of government
+ 选择拥抱凯恩斯对于世界和政府角色的看法
+
+35
+00:02:02,034 --> 00:02:06,084
+which came to dominate economics thinking for the next forty years
+ 这一潮流延续了四十年
+
+36
+00:02:06,084 --> 00:02:11,034
+Hayek was largely relegated to the sidelines
+ 哈耶克则在很大程度上被主流经济学界遗忘了
+
+37
+00:02:11,034 --> 00:02:13,076
+But Hayek's time in the shadows was brief
+ 不过哈耶克并未在阴影中待太久
+
+38
+00:02:13,076 --> 00:02:15,076
+In 1944
+ 1944年
+
+39
+00:02:15,076 --> 00:02:18,088
+he published the classic volume, <The Road to Serfdom>
+ 他出版了经典之作——《通往奴役之路》
+
+40
+00:02:18,088 --> 00:02:21,046
+which became a bestseller
+ 该书也成了畅销书
+
+41
+00:02:21,046 --> 00:02:25,008
+In 1950, Hayek moved to the University of Chicago
+ 1950年，哈耶克前往芝加哥大学任教
+
+42
+00:02:25,008 --> 00:02:26,096
+where he published his second major work
+ 在那他出版了他的第二部重要著作
+
+43
+00:02:26,096 --> 00:02:29,048
+<The Constitution of Liberty>
+ 《自由秩序原理》
+
+44
+00:02:29,048 --> 00:02:33,094
+Subsequent years would see the publication of two more big thick books
+ 在之后的日子里他又出版了另外两本大部头
+
+45
+00:02:33,094 --> 00:02:37,052
+the three-volume <Law, Legislation and Liberty>
+ 三卷本的《法律、立法与自由》
+
+46
+00:02:37,052 --> 00:02:41,028
+and, in 1988, <The Fatal Conceit>
+ 和1988年出版的《致命的自负》
+
+47
+00:02:41,028 --> 00:02:45,060
+In 1974, Hayek was awarded the Nobel prize in Economics
+ 1974年，哈耶克被授予诺贝尔经济学奖
+
+48
+00:02:45,060 --> 00:02:51,072
+finally earning the professional acclaim that he’d lost with his refusal to jump onto Keynesian bandwagon
+ 终于重获因当年与凯恩斯意见不同而失去的专业声誉
+
+49
+00:02:51,072 --> 00:02:53,024
+In 1991
+ 1991年
+
+50
+00:02:53,024 --> 00:02:57,048
+the collapse of the Soviet Union provided further indication of Hayek's notion
+ 苏联的解体为哈耶克关于
+
+51
+00:02:57,048 --> 00:03:02,024
+that central planning by government simply does not, indeed, cannot, work
+ 政府中央计划经济无法、也不可能运转的见解提供了新的注脚
+
+52
+00:03:02,024 --> 00:03:05,048
+Readers interested in exploring Hayek's theories in greater depth
+ 我们鼓励想更深入了解哈耶克理论的读者
+
+53
+00:03:05,048 --> 00:03:08,024
+are encouraged to read his works directly
+ 直接阅读哈耶克的著作
+
+54
+00:03:08,024 --> 00:03:10,098
+I recommend starting with <The Road to Serfdom>
+ 我建议从《通往奴役之路》开始
+
+55
+00:03:10,098 --> 00:03:15,028
+and economic students might wish to start with Hayek's influential 1945 essay
+ 经济系学生可能会希望从哈耶克1945年那篇极富影响力的文章
+
+56
+00:03:15,028 --> 00:03:18,046
+<The Use of Knowledge in Society>
+ 《知识在社会中的运用》开始
+
+57
+00:03:18,046 --> 00:03:21,048
+To learn more and to download <Essential Hayek> for free
+ 想要了解更多或者下载《哈耶克简要》
+
+58
+00:03:21,048 --> 00:03:25,072
+visit www.essentialhayek.org
+ 请访问www.essentialhayek.org
+
+59
+00:03:25,072 --> 00:03:27,072
+翻译 by tcya
