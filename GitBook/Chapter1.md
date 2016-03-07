@@ -33,10 +33,10 @@ In Ronald Hamowy (ed.), The Constitution of Liberty, XVII
 
 <p>To make even one vial of the simplest and least-expensive modern ink requires the knowledge and efforts of many, many people. There are those who find the appropriate vegetation, those who design the machines for extracting the colourings, others who operate those machines, and another group of people who mix the extracted chemicals with the other ingredients in order to make the resulting liquid work well as ink. And these steps are only the beginning.</p>
 
-<img src="Images/1_1.jpg">
 
 <p>即使制作一小瓶最简单、最便宜的现代油墨也需要非常非常多的人的知识和精力，得有人找到合适的植物，得有人设计提取化学物质的机器，得有人来操作这些机器，还得有人把染料和其他成分混合起来好制成能用的油墨，而这才仅仅是开始。</p>
 
+<img src="Images/1_1.jpg">
 <p>The machines used to extract the colourings from the roots, berries, or tree bark are powered by electricity. So we need knowledgeable electricians to equip factories with electrical wiring. Other specialists are required to design the electrical-generating equipment that sends electricity coursing through the factories’ wires. In addition to each of these specialists, others must manufacture the wires themselves, a process that involves yet different specialists to find and mine copper, iron ore, and bauxite. And then even other specialists are necessary to perform each of the many steps involved in transforming these raw minerals into copper, steel, and aluminum wires.</p>
 
 <p>用来从根、果实、树皮中提取化学物质的机器是用电力驱动的。所以得有知识丰富的电力专家给工厂布线，还需要其他的专家设计发电装置给工厂供电。除了这些专家之外，还得有人生产电线，而这又需要专家来勘探及开采铜矿、铁矿以及铝土矿，而将这些原料制成铜质、钢质以及铝制的电线所需要的每一个步骤又都需要更多的专家。</p>
